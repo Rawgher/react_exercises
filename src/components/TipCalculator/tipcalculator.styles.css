@@ -1,0 +1,18 @@
+.tip-holder-div {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.tip-holder-div label {
+  margin-right: 30px;
+}
+
+.tip-holder-div > * {
+  margin-bottom: 20px;
+}
